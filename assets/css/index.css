@@ -9,11 +9,15 @@
     padding-bottom: 3em;
 }
 
-img {
+#carouselExampleCaptions img {
+    border-radius: 1em;
+}
+
+/*img {
     border-radius: 3em;
     
     
-}
+}*/
 
 .titulo {
     text-align: center;
