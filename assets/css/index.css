@@ -11,6 +11,7 @@
 
 #carouselExampleCaptions img {
     border-radius: 1em;
+    
 }
 
 /*img {
@@ -21,5 +22,10 @@
 
 .titulo {
     text-align: center;
+}
+
+body{
+    border-right: 3em;
+    border-right-color: blue;
 }
 
